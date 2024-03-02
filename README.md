@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Incoming features : 
+  Implement search :
+    search prompts that align with your search keywords
+    search prompts by tag
+    search prompts by username
+  Implement click on a tag :
+    Fliter prompts by the clicked tag
+  Implement view other people's profiles :
+    Clicking the name/email/image of a user directs to their profile page with their prompts
